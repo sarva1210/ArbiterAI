@@ -83,5 +83,4 @@ export default async function (problem: string) {
         problem: problem
     })
     return result
-
 }
