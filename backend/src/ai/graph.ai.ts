@@ -48,7 +48,7 @@ const judgeNode: GraphNode<typeof state> = async (state) => {
                 Solution 1: ${solution_1}
                 Solution 2: ${solution_2}
                 Please evaluate the solutions and provide scores and reasoning.
-                `)
+            `)
         ]
     })
 
