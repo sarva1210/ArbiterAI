@@ -9,6 +9,8 @@ export default function ArenaResponse({ solution1, solution2, judge }) {
     hljs.highlightAll();
   }, [solution1, solution2]);
 
+
+  
   return (
     <div className="flex flex-col gap-8 my-8 px-4 w-full">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
